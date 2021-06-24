@@ -11,7 +11,7 @@
                 "label": "Inicio",
                 "url": "/",
                 "style": "link",
-                "active": ""
+                "visible": false
             },
             {
                 "label": "Portfolio",
