@@ -7,11 +7,11 @@
         "title": "Ana Paula Freire",
         "has_nav": true,
         "nav_links": [
-            {
-                "label": "Inicio",
-                "url": "/",
-                "style": "link"
-            },
+            // {
+            //     "label": "Inicio",
+            //     "url": "/",
+            //     "style": "link"
+            // },
             {
                 "label": "Portfolio",
                 "url": "/portfolio/",
