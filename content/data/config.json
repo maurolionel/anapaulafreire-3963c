@@ -10,7 +10,7 @@
             {
                 "label": "Inicio",
                 "url": "/",
-                "style": "link",
+                "style": "link"
             },
             {
                 "label": "Portfolio",
