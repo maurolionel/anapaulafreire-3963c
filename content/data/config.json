@@ -7,36 +7,36 @@
         "title": "Ana Paula Freire",
         "has_nav": true,
         "nav_links": [
-            {
-                "label": "Inicio",
-                "url": "/",
-                "style": "link",
-            },
+            // {
+            //     "label": "Inicio",
+            //     "url": "/",
+            //     "style": "link",
+            // },
             {
                 "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link"
             },
-            {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            }
+            // {
+            //     "label": "Blog",
+            //     "url": "/blog/",
+            //     "style": "link"
+            // },
+            // {
+            //     "label": "Style Guide",
+            //     "url": "/style-guide/",
+            //     "style": "link"
+            // },
+            // {
+            //     "label": "About",
+            //     "url": "/about/",
+            //     "style": "link"
+            // },
+            // {
+            //     "label": "Contact",
+            //     "url": "/contact/",
+            //     "style": "link"
+            // }
         ]
     },
     "footer": {
